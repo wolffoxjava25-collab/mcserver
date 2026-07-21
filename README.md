@@ -12,7 +12,7 @@
 原本：<del>5. 輸入apt-get install openjdk-17-jre-headless</del> <br>
 現在：5. 輸入apt-get install openjdk-26-jre-headless <br>
 原本：<del>10.輸入git clone https://github.com/lordofwizard/mcserver</del> <br>
-現在：10. 輸入git clone https://github.com/tony0406/mcserver
+現在：10. 輸入git clone https://github.com/wolffoxjava25-collab/mcserver
 ### 創立伺服器
 原本：<del>選擇 [3]Create Forge Server</del> <br>
 現在：選擇 [1]Create Vanilla Server
